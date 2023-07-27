@@ -19,3 +19,5 @@ qemu-system-i386 -m 512 -fda kolibri.img -boot a
 
 Needed in script:
 qemu_command = ["qemu-system-i386", "-m", "512", "-boot", "a", "-fda", img_file_path]
+
+![Example-1](https://github.com/txtatech/qros-builder/blob/main/qros-builder/examples/qros-builder-example-1.png)
