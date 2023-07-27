@@ -1,5 +1,5 @@
 # qros-builder
-Builds KolibriOS from qr codes and launches the small assembly written OS in qemu.
+Builds [KolibriOS](https://github.com/KolibriOS/kolibrios) from qr codes and launches the small assembly written OS in qemu.
 
 Step 1:
 
