@@ -1,0 +1,11 @@
+Original Size:
+For the file 'kolibri.img': 1474560 bytes
+
+QR Encoding Size:
+Total size of data after concatenation: 1745776
+
+QR Decoding Size:
+Total size of data after concatenation: 1309332
+
+New Size:
+For the file 'kolibri.img': 1474560 bytes
